@@ -1,0 +1,11 @@
+{
+    "PORT": 3030,
+    "DB": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "school"
+    },
+    "MAX_STUDENTS": 100,
+    "APPROVAL_GRADE": 7
+}
